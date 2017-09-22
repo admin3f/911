@@ -1,0 +1,103 @@
+/* - - - - - - LABELS - - - - - - */
+
+.labels-categorias {
+    cursor: pointer;
+    /*position: fixed;
+
+
+
+  top: 0;
+
+
+
+  left: 0;
+
+
+
+  right: 0;
+
+
+
+  bottom: 0;*/
+    width: 3em;
+    height: 3em;
+    margin: auto;
+    border-radius: 100em;
+    border: .3em solid #FFF;
+    display: block;
+    z-index: 10;
+    transition: background .3s ease, color .3s ease;
+    -o-transition: background .3s ease, color .3s ease;
+    -moz-transition: background .3s ease, color .3s ease;
+    -webkit-transition: background .3s ease, color .3s ease;
+    font-size: 150%;
+    font-weight: bold;
+    line-height: 3em;
+    text-align: center;
+    text-shadow: 0 .1em 0 rgba(0, 0, 0, .3), 0 -.05em 0 rgba(255, 255, 255, .3);
+    background-position: center center;
+    -webkit-background-size: 80%;
+    -o-background-size: 80%;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
+
+
+/* - - - - - - LABEL ONE - - - - - - */
+
+.labels-categorias#label_one {
+    left: -12em;
+    background-color: rgb(0, 135, 211);
+    background-image: url('../img/label-icon-pavimentacion.png');
+    color: rgb(0, 110, 171);
+}
+
+.labels-categorias#label_one:hover {
+    background-color: rgb(0, 110, 171);
+    color: rgb(0, 135, 211);
+}
+
+
+/* - - - - - - LABEL TWO - - - - - - */
+
+.labels-categorias#label_two {
+    left: -4em;
+    background-color: rgb(233, 54, 40);
+    background-image: url('../img/label-icon-via-publica.png');
+    color: rgb(195, 39, 27);
+}
+
+.labels-categorias#label_two:hover {
+    background-color: rgb(195, 39, 27);
+    color: rgb(233, 54, 40);
+}
+
+
+/* - - - - - - LABEL THREE - - - - - - */
+
+.labels-categorias#label_three {
+    right: -4em;
+    background-color: rgb(245, 183, 0);
+    background-image: url('../img/label-icon-espacios-verdes.png');
+    color: rgb(248, 136, 0);
+}
+
+.labels-categorias#label_three:hover {
+    background-color: rgb(248, 136, 0);
+    color: rgb(245, 183, 0);
+}
+
+
+/* - - - - - - LABEL FOUR - - - - - - */
+
+.labels-categorias#label_four {
+    right: -12em;
+    background-color: rgb(19, 194, 96);
+    background-image: url('../img/label-icon-servicio-publico.png');
+    color: rgb(17, 159, 79);
+}
+
+.labels-categorias#label_four:hover {
+    background-color: rgb(17, 159, 79);
+    color: rgb(19, 194, 96);
+}

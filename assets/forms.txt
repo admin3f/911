@@ -1,0 +1,461 @@
+{
+	"0": [{
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Imputado",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "imputado_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "imputado_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "imputado_dni",
+			"tipo": "texto"
+		}]
+	}],
+	"27": [{
+		"etiqueta": "Marca",
+		"nombre": "marca",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Modelo",
+		"nombre": "modelo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Color",
+		"nombre": "color",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Dominio",
+		"nombre": "dominio",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Detalle vehículo",
+		"nombre": "detalle_vehiculo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Vehiculo Apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}, {
+		"etiqueta": "Lugar de Fuga",
+		"nombre": "lugar_fuga",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Privacion Libertad",
+		"nombre": "privacion_libertad",
+		"tipo": "si\/no"
+	}],
+	"28": [{
+		"etiqueta": "Marca",
+		"nombre": "marca",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Modelo",
+		"nombre": "modelo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Color",
+		"nombre": "color",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Dominio",
+		"nombre": "dominio",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Detalle vehículo",
+		"nombre": "detalle_vehiculo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Vehiculo Apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}, {
+		"etiqueta": "Lugar de Fuga",
+		"nombre": "lugar_fuga",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Privacion Libertad",
+		"nombre": "privacion_libertad",
+		"tipo": "si\/no"
+	}],
+	"42": [{
+		"etiqueta": "Marca",
+		"nombre": "marca",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Modelo",
+		"nombre": "modelo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Color",
+		"nombre": "color",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Dominio",
+		"nombre": "dominio",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Detalle vehículo",
+		"nombre": "detalle_vehiculo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Vehiculo Apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}, {
+		"etiqueta": "Lugar de Fuga",
+		"nombre": "lugar_fuga",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Privacion Libertad",
+		"nombre": "privacion_libertad",
+		"tipo": "si\/no"
+	}],
+	"46": [{
+		"etiqueta": "Marca",
+		"nombre": "marca",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Modelo",
+		"nombre": "modelo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Color",
+		"nombre": "color",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Dominio",
+		"nombre": "dominio",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Detalle vehículo",
+		"nombre": "detalle_vehiculo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Vehiculo Apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}, {
+		"etiqueta": "Lugar de Fuga",
+		"nombre": "lugar_fuga",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Privacion Libertad",
+		"nombre": "privacion_libertad",
+		"tipo": "si\/no"
+	}],
+	"50": [{
+		"etiqueta": "Marca",
+		"nombre": "marca",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Modelo",
+		"nombre": "modelo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Color",
+		"nombre": "color",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Dominio",
+		"nombre": "dominio",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Detalle vehículo",
+		"nombre": "detalle_vehiculo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Vehiculo Apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}, {
+		"etiqueta": "Lugar de Fuga",
+		"nombre": "lugar_fuga",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Privacion Libertad",
+		"nombre": "privacion_libertad",
+		"tipo": "si\/no"
+	}],
+	"47": [{
+		"etiqueta": "Modalidad",
+		"nombre": "modalidad",
+		"tipo": "combo",
+		"valores": ["Entradera", "Escruche"]
+	}, {
+		"etiqueta": "Vivienda",
+		"nombre": "vivienda",
+		"tipo": "combo",
+		"valores": ["Casa", "Torre", "Nudo"]
+	}, {
+		"etiqueta": "Localidad",
+		"nombre": "localidad",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Con autores?",
+		"nombre": "con_autores",
+		"tipo": "si\/no"
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}],
+	"51": [{
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Vehículo que traslada a la víctima",
+		"campos": []
+	}, {
+		"etiqueta": "Marca",
+		"nombre": "marca",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Modelo",
+		"nombre": "modelo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Color",
+		"nombre": "color",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Dominio",
+		"nombre": "dominio",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Detalle vehículo",
+		"nombre": "detalle_vehiculo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Vehiculo de apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}],
+	"49": [{
+		"etiqueta": "Víctima",
+		"campos": [{
+			"etiqueta": "Nombre",
+			"nombre": "victima_nombre",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "Apellido",
+			"nombre": "victima_apellido",
+			"tipo": "texto"
+		}, {
+			"etiqueta": "DNI",
+			"nombre": "victima_dni",
+			"tipo": "texto"
+		}]
+	}, {
+		"etiqueta": "Elementos sustraídos",
+		"nombre": "elementos_sustraidos",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Cant. N/N",
+		"nombre": "cant_nn",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Descripción",
+		"nombre": "descripcion",
+		"tipo": "libre"
+	}, {
+		"etiqueta": "",
+		"campos": [{
+			"etiqueta": "Menores de Edad",
+			"nombre": "menores_edad",
+			"tipo": "si\/no"
+		}, {
+			"etiqueta": "Arma de fuego o blanca",
+			"nombre": "armas",
+			"tipo": "si\/no"
+		}]
+	}, {
+		"etiqueta": "Vehìculo de apoyo",
+		"nombre": "vehiculo_apoyo",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Lugar de Fuga",
+		"nombre": "lugar_fuga",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Lesiones",
+		"nombre": "lesiones",
+		"tipo": "texto"
+	}, {
+		"etiqueta": "Se solicita ambulancia",
+		"nombre": "ambulancia",
+		"tipo": "si\/no"
+	}, {
+		"etiqueta": "Ampliacion",
+		"nombre": "ampliacion1",
+		"tipo": "libre"
+	}]
+}
