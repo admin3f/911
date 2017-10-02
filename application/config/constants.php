@@ -85,9 +85,7 @@ defined('EXIT__AUTO_MIN')      OR define('EXIT__AUTO_MIN', 9); // lowest automat
 defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 
-define("GMAP_GEO_API_KEY", "AIzaSyA0MDWGTVrWBzLeh2CSRX0YtIhKMFQmAJA");
+define("GMAP_GEO_API_KEY", "AIzaSyAoBHh2wEpzx71GeoUpRQgwV_YLF_y4GWQ");
 
-define("GMAPS_API_KEY", "AIzaSyDHVyo3D99lxRI9rshJ389x46gk1x60HlQ");
+define("GMAPS_API_KEY", "AIzaSyAoBHh2wEpzx71GeoUpRQgwV_YLF_y4GWQ");
 
-
-           
